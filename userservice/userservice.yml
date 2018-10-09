@@ -11,7 +11,7 @@ spring:
     datasource:
       url: "jdbc:mysql://localhost:3306/users"
       username: "root"
-      password: "{cipher} 191003984c4ebf10e30c5f0310a96d378fff22bfc8d92bb626643070a9cd3d27"
+      password: "{cipher}191003984c4ebf10e30c5f0310a96d378fff22bfc8d92bb626643070a9cd3d27"
       testWhileIdle: "true"
       validationQuery: "SELECT 1"
 
